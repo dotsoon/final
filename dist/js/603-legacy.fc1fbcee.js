@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksimple_login_app"]=self["webpackChunksimple_login_app"]||[]).push([[603],{9603:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var l=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"hello"},[t("h1",[e._v("404 Not Found")])])}],r={name:"NotFoundComponent",props:{msg:String}},u=r,o=t(1001),i=(0,o.Z)(u,l,s,!1,null,"463537d0",null),a=i.exports}}]);
+//# sourceMappingURL=603-legacy.fc1fbcee.js.map
